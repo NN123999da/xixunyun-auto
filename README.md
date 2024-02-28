@@ -12,7 +12,7 @@
   - **<u>ADDRESS_NAME</u>**--地址名，如xxx公司
   - **<u>LONGITUDE</u>**--经度
   - **<u>LATITUDE</u>**--纬度
-  - **<u>TOKEN</u>**--push+ 的token，用于签到后发送微信通知 （http://www.pushplus.plus/）
+  - **<u>TOKEN</u>**--push+ 的token，用于签到后发送微信通知 （http://www.pushplus.plus
   - **<u>CODE</u>**--邮件通知，可选
   - **<u>EMAIL</u>**--邮件通知地址，可选
 
