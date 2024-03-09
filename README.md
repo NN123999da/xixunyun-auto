@@ -8,7 +8,7 @@
   - **<u>ACCOUNT</u>**--账号
   - **<u>PASSWORD</u>**--密码
   - **<u>SCHOOL_ID</u>**--学校id,
-  - **<u>ADDRESS</u>**--地址，如xx省xx市xx街
+  - **<u>ADDRESS</u>**--地址，如xx省xx市xx
   - **<u>ADDRESS_NAME</u>**--地址名，如xxx公
   - **<u>LONGITUDE</u>**--经度
   - **<u>LATITUDE</u>**--纬度
