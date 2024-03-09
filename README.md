@@ -9,7 +9,7 @@
   - **<u>PASSWORD</u>**--密码
   - **<u>SCHOOL_ID</u>**--学校id,
   - **<u>ADDRESS</u>**--地址，如xx省xx市xx街
-  - **<u>ADDRESS_NAME</u>**--地址名，如xxx公司
+  - **<u>ADDRESS_NAME</u>**--地址名，如xxx公
   - **<u>LONGITUDE</u>**--经度
   - **<u>LATITUDE</u>**--纬度
   - **<u>TOKEN</u>**--push+ 的token，用于签到后发送微信通知 （http://www.pushplus.plus
