@@ -10,7 +10,7 @@ account: process.env.ACCOUNT,
 password: process.env.PASSWORD,
 school_id: process.env.SCHOOL_ID,
 request_source: 3,
-system: '5.1.1'
+system: '5.2.1'
 })
 
 
